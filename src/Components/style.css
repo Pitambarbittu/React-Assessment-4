@@ -1,0 +1,77 @@
+body{
+    background-color: brown;
+}
+
+ .header{
+    background-color: #000000;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header ul{
+    display: flex;
+    column-gap: 300px; 
+    list-style: none;  
+  }
+  .navLink{
+    text-decoration: none;
+    font-size: 30px;
+    color:rgb(255, 0, 0);
+    
+  }
+
+
+
+
+
+
+
+table {
+    border: 1px solid;
+    width: 70%;
+    margin:30px auto;
+    color: rgb(19, 6, 61);
+  }
+  
+  th {
+    border: 1px solid;
+    height: 70px;
+    width: 30px;
+    
+  }
+  td{
+    border: 1px solid;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+  }
+  h1{
+      text-align: center;
+      color: #bae300;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+  
